@@ -1,2 +1,19 @@
-# DarkScreen
-假装熄屏-Pretend to extinguish the screen
+# DarkScreen->Hamibot
+[假装熄屏-Pretend to extinguish the screen](https://hamibot.com/marketplace/wSAy1)
+
+
+## 功能
+- 在手机需要亮屏的时候，假装熄屏，可以继续执行其他脚本；
+- 熄屏保护OLED手机屏幕，防止烧屏和省电；
+- 挂机必备；
+- **配置选择某一按键**：短按则在亮屏熄屏切换，长按3s退出脚本
+- **选择运行的初始状态**：熄屏、亮屏
+------
+## 原理
+- 在手机屏幕上展示一个黑色的悬浮窗
+---
+
+**注意：**
+
+1. 仅OLED手机屏幕适合使用;
+2. 假装熄屏时，截图截取不到任何内容，故不要使用需要截屏权限的脚本会影响该脚本的正常运行，因为只能截取到黑色的悬浮窗。
