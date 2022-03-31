@@ -1,0 +1,26 @@
+[
+  {
+    "name": "touch",
+    "type": "checkbox",
+    "label": "屏蔽触摸、点击",
+    "help": "勾选后，触摸和点击将失效"
+  },
+  {
+    "name": "setting",
+    "type": "radio",
+    "label": "选择切换的功能按键---按下亮屏熄屏切换，长按退出脚本",
+    "options": {
+      "a": "音量上键",
+      "b": "音量下键"
+    }
+  },
+  {
+    "name": "start",
+    "type": "radio",
+    "label": "选择运行后初始屏幕状态",
+    "options": {
+      "a": "亮屏",
+      "b": "熄屏"
+    }
+  }
+]
